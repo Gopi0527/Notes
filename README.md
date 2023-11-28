@@ -21,7 +21,7 @@
       source /etc/environment
 
   ![image](https://github.com/Gopi0527/Notes/assets/137286069/c40bf0d5-39b1-4f90-a433-e16bf93ae611)
-
+ ![image](https://github.com/Gopi0527/Notes/assets/137286069/e3de579b-11b7-433e-9702-bacac9ffde8c)
   
   ![image](https://github.com/Gopi0527/Notes/assets/137286069/c2e81434-9b2f-4715-9a2a-54ee6fe236d2)
    
