@@ -15,10 +15,13 @@
   ` tar -xvzf apache-maven-3.9.5-bin.tar.gz`
   ![image](https://github.com/Gopi0527/Notes/assets/137286069/e1f20cee-6f7e-4af7-89f1-ad9b5b83a80e)
 * Now untar the file
-   ```sudo mkdir /opt/maven/
+  sudo mkdir /opt/maven/
       sudo mv apache-maven-3.9.5 /opt/maven/
       sudo vi /etc/environment
-      source /etc/environment```
+      source /etc/environment
+
+  ![image](https://github.com/Gopi0527/Notes/assets/137286069/c40bf0d5-39b1-4f90-a433-e16bf93ae611)
+
   
   ![image](https://github.com/Gopi0527/Notes/assets/137286069/c2e81434-9b2f-4715-9a2a-54ee6fe236d2)
    
