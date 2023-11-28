@@ -24,10 +24,10 @@
  ![image](https://github.com/Gopi0527/Notes/assets/137286069/e3de579b-11b7-433e-9702-bacac9ffde8c)
   
   ![image](https://github.com/Gopi0527/Notes/assets/137286069/c2e81434-9b2f-4715-9a2a-54ee6fe236d2)
-   
+  
   ![image](https://github.com/Gopi0527/Notes/assets/137286069/f5debe29-8921-4a2f-9399-41db5efb9a85)
    
-  ![image](https://github.com/Gopi0527/Notes/assets/137286069/e3de579b-11b7-433e-9702-bacac9ffde8c)
+  
 
 
 
