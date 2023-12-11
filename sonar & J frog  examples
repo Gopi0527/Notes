@@ -1,0 +1,93 @@
+SonarCloud Account Details
+--------------------------
+spring-petclinic-gopi
+
+Key :10c896f62c703709e8515db4412328abb1049ccd
+https://sonarcloud.io/projects
+
+'mvn clean package'
+                withSonarQubeEnv(installationName: 'SONAR_CLOUD', credentialsId: 'SONAR_CLOUD') {
+                   sh  'mvn clean verify sonar:sonar -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=spring-petclinic-gopi
+ -Dsonar.projectKey=spring-petclinic-gopi_nop'
+
+
+J Frog 
+--------
+
+Reference Letter : cmVmdGtuOjAxOjE3MzM3MjUyNjk6eGJOQmZSZDAwYm4yNnJYWVpjWU8xRTRwbUxw
+
+Username: yakkati.gopikrishna@gmail.com
+Scope: applied-permissions/user
+Audience: *@*
+Expires In: 11 month(s) 30 day(s)
+Token ID: 3824d681-797d-494d-89fd-c38a0786c7cf
+
+
+
+
+
+
+
+ https:///artifactory/api/maven/gopi-libs-snapshot
+ https://gopikrishna1993.jfrog.io/ui
+ Maven Repository: gopi-libs-snapshot
+ Jfrog reference token
+ ---------------------
+ eyJ2ZXIiOiIyIiwidHlwIjoiSldUIiwiYWxnIjoiUlMyNTYiLCJraWQiOiJjM2lRczdGRDRJQnFYZTVKSXgwbEFqWHB6ck12aGNuVHdEdmFIZ2xybXJZIn0.eyJzdWIiOiJqZmFjQDAxaGdmejhhMnJoM3E5MDVwbXJ4azcwZGdyL3VzZXJzL3lha2thdGkuZ29waWtyaXNobmFAZ21haWwuY29tIiwic2NwIjoiYXBwbGllZC1wZXJtaXNzaW9ucy9ncm91cHM6XCJkZXZvcHNcIiIsImF1ZCI6IipAKiIsImlzcyI6ImpmZmVAMDFoZ2Z6OGEycmgzcTkwNXBtcnhrNzBkZ3IiLCJleHAiOjE3MDQwMTgwNjgsImlhdCI6MTcwMTQyNjA2OCwianRpIjoiMDg3NjBiZGUtOGQ3YS00NTQ5LThjOGEtOTMzMjk5YmEzMjEzIn0.pTjRoyfmFdmGdUk0VRx9RjZScDhEe2CuIupPnFjEoxM9dEENHcafwtqxhB13GHcSxru7ukloHLeeYKV_HNYcNkXWo7rPgOnjBKT16EjDVox_iinP4tO4N-ilb9iBg9NquxDSyzhD1Sb9GfZadMBh-TsiQcYrHIMB9G9bo6REtv9E3z2Fu8hLceAdUdRvdphtNDYoZXFNpRrpEcDAqNWxfqjDR20ufJzG1B1r1HAT3bSGY5_X4jJbsPQZQl-wuX5Q3MGC4h7arbSuEIpoPjCvGfKghHdLClR85_JMf3wSyLQeriCXr5XARmaZrGxjzdf_vD38CjosrtKoGD2AcRC3DQ
+ 08760bde-8d7a-4549-8c8a-933299ba3213
+
+ 
+ eyJ2ZXIiOiIyIiwidHlwIjoiSldUIiwiYWxnIjoiUlMyNTYiLCJraWQiOiJjM2lRczdGRDRJQnFYZTVKSXgwbEFqWHB6ck12aGNuVHdEdmFIZ2xybXJZIn0.eyJzdWIiOiJqZmFjQDAxaGdmejhhMnJoM3E5MDVwbXJ4azcwZGdyL3VzZXJzL3lha2thdGkuZ29waWtyaXNobmFAZ21haWwuY29tIiwic2NwIjoiYXBwbGllZC1wZXJtaXNzaW9ucy91c2VyIiwiYXVkIjoiKkAqIiwiaXNzIjoiamZmZUAwMWhnZno4YTJyaDNxOTA1cG1yeGs3MGRnciIsImV4cCI6MTcwNDAwNDYwMSwiaWF0IjoxNzAxNDEyNjAxLCJqdGkiOiI5MGM5YmMwZS03ZGQ0LTQ4YWMtOTVhZS0zZjJiNDA5MjdhOGUifQ.ac7TQZb9aeuK0eBXAV4lE6yJDg7xdOTCANBhK2htWaaghRF7Bgu0YEmHjdabwsm2ZIIx3fyLkpbVzEbwC062RVsubM3x07Ab8kQeZ0kZ4p7WikFK9elkHL1pBLgDPSLuDxdH7jqUWOc3dLCGref7g-0aYloNvAv6YAAraaJnC1IbY_e3zcx_MghHuZtV0-S7GOE_yu8AqFxCqOw6Zau7fKAh1fz8vXPkVb2h87I8W8Jw88Io2z2PVtfXjRNKb4flDmteZPSCVslVZjm0edU6Vv8A-0FngpMzP8YM1CWi5MtFuqx5eCMN6QdmjBH4xJ28wlnqju_l_bsMEVYmUFU8xw
+ Reference Token
+----------------
+ cmVmdGtuOjAxOjE3MDQwMDQ2MDE6TmFGbzNjZlVLRFRPSjhRa0dHeGlrYUkwY09Q
+ 
+ 
+ 
+image atrifactory
+Azure devops using artifactory
+Jenkins artifactroy issues
+
+withSonarQubeEnv(installationName: 'SONAR_CLOUD', credentialsId: 'SONAR_CLOUD') {
+                   sh  'mvn clean verify sonar:sonar -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=jenkinsdec23 -Dsonar.projectKey=jenkinsdec23_test'
+
+
+
+for Maven Apllications
+----------------------
+
+sonar-scanner 
+    -Dsonar.token=10c896f62c703709e8515db4412328abb1049ccd \
+    -Dsonar.host.url=https://sonarcloud.io \
+    -Dsonar.organization=spring-petclinic-gopi \
+    -Dsonar.projectKey=spring-petclinic-gopi_cli
+
+---------------------------------------
+For dotnet applications
+-------------------------
+
+dotnet sonarscanner begin \
+  /o:spring-petclinic-gopi \
+  /k:spring-petclinic-gopi_cli \
+  /d:sonar.host.url=https://sonarcloud.io
+dotnet build -c Release src/NopCommerce.sln
+dotnet sonarscanner end
+
+
+dotnet tool install --global dotnet-sonarscanner
+dotnet sonarscanner begin k:spring-petclinic-gopi_cli o:spring-petclinic-gopi /d:sonar.host.url=https://sonarcloud.io /d:sonar.token=10c896f62c703709e8515db4412328abb1049ccd
+dotnet build -c Release src/NopCommerce.sln
+dotnet sonarscanner end d:sonar.token=10c896f62c703709e8515db4412328abb1049ccd
+
+
+
+
+dotnet tool install --global dotnet-sonarscanner
+dotnet sonarscanner begin /k:"spring-petclinic-gopi_cli" /o:"spring-petclinic-gopi" /d:sonar.token="10c896f62c703709e8515db4412328abb1049ccd"
+dotnet build -c Release src/NopCommerce.sln
+dotnet sonarscanner end /d:sonar.token="10c896f62c703709e8515db4412328abb1049ccd"
+
+
+
+dotnet sonarscanner begin   /o:spring-petclinic-gopi   /k:spring-petclinic-gopi_cli   /d:sonar.host.url=https://sonarcloud.io  dotnet build -c Release src/NopCommerce.sln
+ dotnet sonarscanner end
